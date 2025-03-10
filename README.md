@@ -3,25 +3,7 @@
 
 🔍 A simple CRUD application for managing data using the MERN stack: MongoDB, Express, React (with Vite), and Node.js.
 
----
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Configuration](#configuration)
-- [API Routes & Endpoints](#api-routes--endpoints)
-- [Code Structure](#code-structure)
-  - [Backend (`/backend`)](#backend-backend)
-  - [Frontend (`/mern-crud-app`)](#frontend-mern-crud-app)
-- [Running the App](#running-the-app)
-- [Deployment Notes](#deployment-notes)
-- [Contributing Guidelines](#contributing-guidelines)
-- [License](#license)
-- [FAQ / Troubleshooting](#faq--troubleshooting)
 
 ---
 
